@@ -1,0 +1,9 @@
+C:\Users\Abu_yasasser\Desktop\Keep COUNT\GUI\KC GUI\KEEP-COUNT\KEEP-COUNT\bin\Debug\KEEP-COUNT.exe
+C:\Users\Abu_yasasser\Desktop\Keep COUNT\GUI\KC GUI\KEEP-COUNT\KEEP-COUNT\bin\Debug\KEEP-COUNT.pdb
+C:\Users\Abu_yasasser\Desktop\Keep COUNT\GUI\KC GUI\KEEP-COUNT\KEEP-COUNT\obj\Debug\KEEP-COUNT.csprojAssemblyReference.cache
+C:\Users\Abu_yasasser\Desktop\Keep COUNT\GUI\KC GUI\KEEP-COUNT\KEEP-COUNT\obj\Debug\KEEP_COUNT.Form1.resources
+C:\Users\Abu_yasasser\Desktop\Keep COUNT\GUI\KC GUI\KEEP-COUNT\KEEP-COUNT\obj\Debug\KEEP_COUNT.Properties.Resources.resources
+C:\Users\Abu_yasasser\Desktop\Keep COUNT\GUI\KC GUI\KEEP-COUNT\KEEP-COUNT\obj\Debug\KEEP-COUNT.csproj.GenerateResource.cache
+C:\Users\Abu_yasasser\Desktop\Keep COUNT\GUI\KC GUI\KEEP-COUNT\KEEP-COUNT\obj\Debug\KEEP-COUNT.csproj.CoreCompileInputs.cache
+C:\Users\Abu_yasasser\Desktop\Keep COUNT\GUI\KC GUI\KEEP-COUNT\KEEP-COUNT\obj\Debug\KEEP-COUNT.exe
+C:\Users\Abu_yasasser\Desktop\Keep COUNT\GUI\KC GUI\KEEP-COUNT\KEEP-COUNT\obj\Debug\KEEP-COUNT.pdb
